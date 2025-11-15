@@ -14,14 +14,13 @@ This project simulates a complete smart home IoT network with 12+ connected devi
 
 **Course:** BCSE308L - Computer Networks  
 **Institution:** VIT Vellore  
-**Team:** Shubhangam, Kalp  
 **Date:** November 2025
 
 ---
 
 ## 🎯 Features
 
-- ✅ **12+ IoT Devices:** Smoke detectors, fire sprinklers, smart doors, windows, thermostat, siren
+- ✅ **15+ IoT Devices:** Smoke detectors, fire sprinklers, smart doors, windows, thermostat, siren
 - ✅ **Zero-Configuration Networking:** Automatic device discovery via mDNS
 - ✅ **Real-Time Automation:** Fire emergency response, security access control, climate management
 - ✅ **Performance:** <100ms response time, 0% packet loss
